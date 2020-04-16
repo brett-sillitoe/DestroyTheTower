@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F48CF2E92448E83C001D4F99 /* RewardOptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F48CF2E82448E83C001D4F99 /* RewardOptionsViewController.swift */; };
+		F48CF2EB2448EDA1001D4F99 /* RewardCardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F48CF2EA2448EDA1001D4F99 /* RewardCardViewController.swift */; };
 		F492DD5E2447A3420000493D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F492DD5D2447A3420000493D /* AppDelegate.swift */; };
 		F492DD602447A3420000493D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F492DD5F2447A3420000493D /* SceneDelegate.swift */; };
 		F492DD622447A3420000493D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F492DD612447A3420000493D /* ViewController.swift */; };
@@ -42,6 +44,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F48CF2E82448E83C001D4F99 /* RewardOptionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RewardOptionsViewController.swift; sourceTree = "<group>"; };
+		F48CF2EA2448EDA1001D4F99 /* RewardCardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RewardCardViewController.swift; sourceTree = "<group>"; };
 		F492DD5A2447A3420000493D /* DestroyTheTower.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DestroyTheTower.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F492DD5D2447A3420000493D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F492DD5F2447A3420000493D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -121,7 +125,9 @@
 				F492DD612447A3420000493D /* ViewController.swift */,
 				F492DD902447A3850000493D /* HandOfCardsViewController.swift */,
 				F492DD632447A3420000493D /* Main.storyboard */,
+				F48CF2EA2448EDA1001D4F99 /* RewardCardViewController.swift */,
 				F492DD922447A38D0000493D /* GameViewController.swift */,
+				F48CF2E82448E83C001D4F99 /* RewardOptionsViewController.swift */,
 				F492DD942447A3970000493D /* CardViewController.swift */,
 				F492DD692447A3430000493D /* Assets.xcassets */,
 				F492DD6B2447A3430000493D /* LaunchScreen.storyboard */,
@@ -283,6 +289,7 @@
 				F492DD912447A3850000493D /* HandOfCardsViewController.swift in Sources */,
 				F4D3C3BD2447AE9200B57096 /* Card.swift in Sources */,
 				F492DD952447A3970000493D /* CardViewController.swift in Sources */,
+				F48CF2E92448E83C001D4F99 /* RewardOptionsViewController.swift in Sources */,
 				F492DD682447A3420000493D /* DestroyTheTower.xcdatamodeld in Sources */,
 				F492DD622447A3420000493D /* ViewController.swift in Sources */,
 				F4D3C3BC2447AE9200B57096 /* Player.swift in Sources */,
@@ -290,6 +297,7 @@
 				F492DD5E2447A3420000493D /* AppDelegate.swift in Sources */,
 				F492DD932447A38D0000493D /* GameViewController.swift in Sources */,
 				F492DD602447A3420000493D /* SceneDelegate.swift in Sources */,
+				F48CF2EB2448EDA1001D4F99 /* RewardCardViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
